@@ -1,0 +1,10 @@
+adkasod
+0x545646
+UAYUAUAA
+10000
+(example * number);
+I'm - smile;
+if AB = B then A := A * B else A := B + 1;
+if a = b then a := b - 1
+0x9A;
+if a < b then a := b * 100;
